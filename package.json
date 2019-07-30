@@ -14,7 +14,7 @@
   "dependencies": {},
   "devDependencies": {
     "@azure/functions": "1.0.3",
-    "@types/jest": "24.0.15",
+    "@types/jest": "24.0.16",
     "eslint": "6.1.0",
     "eslint-config-airbnb-base": "13.2.0",
     "eslint-config-prettier": "6.0.0",
