@@ -11,10 +11,18 @@
     "build:production": "npm run prestart && npm prune --production",
     "test": "jest"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@azure/identity": "^1.0.0-preview.1",
+    "@azure/keyvault-secrets": "^4.0.0-preview.2",
+    "@mikazuki/lookenv": "^0.1.1",
+    "@mikazuki/pixela": "^0.1.2",
+    "dayjs": "^1.8.15",
+    "twitter": "^1.7.1"
+  },
   "devDependencies": {
     "@azure/functions": "1.0.3",
     "@types/jest": "24.0.16",
+    "@types/twitter": "1.7.0",
     "eslint": "6.1.0",
     "eslint-config-airbnb-base": "13.2.0",
     "eslint-config-prettier": "6.0.0",
