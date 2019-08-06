@@ -34,7 +34,7 @@
   resolved "https://registry.yarnpkg.com/@azure/functions/-/functions-1.0.3.tgz#1b51d58f188903f59f39bd093fe6f7b8d88deb11"
   integrity sha512-/D+sz6LgWT+A6RRW2zhwlwhKqqDSxL6HCF1Q1lN0iXolD2FfNFZpzrOxGyGYEEXp/5Dtjp12bcRTBhMH1cBi2Q==
 
-"@azure/identity@^1.0.0-preview.1":
+"@azure/identity@1.0.0-preview.1", "@azure/identity@^1.0.0-preview.1":
   version "1.0.0-preview.1"
   resolved "https://registry.yarnpkg.com/@azure/identity/-/identity-1.0.0-preview.1.tgz#a33315cf12367b631ab34f4ef08b6e3b0073fc78"
   integrity sha512-AM/OXOVojj+A850c3Un5RTJSBh2cugYZqbicW2TzsuQAjDaAh8DnBseW1x9BhfZQ/RWk2Vh/GJ3SHK0X0Ab7dA==
@@ -46,7 +46,7 @@
     tslib "^1.9.3"
     uuid "^3.3.2"
 
-"@azure/keyvault-secrets@^4.0.0-preview.2":
+"@azure/keyvault-secrets@4.0.0-preview.2":
   version "4.0.0-preview.2"
   resolved "https://registry.yarnpkg.com/@azure/keyvault-secrets/-/keyvault-secrets-4.0.0-preview.2.tgz#bf5f8dd28d0c3629551fb04ad4743c0305b989af"
   integrity sha512-vboPWUoKLcoioKZCpDolt5NMtYtolM7mSXoAGkzGUhr9Uiez6aHITPh55Bb3rsOYDsXiMxJKcETukjXGcE7qbg==
@@ -363,12 +363,12 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^12.0.9"
 
-"@mikazuki/lookenv@^0.1.1":
+"@mikazuki/lookenv@0.1.1":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@mikazuki/lookenv/-/lookenv-0.1.1.tgz#83e156552ea2e4882c916f4b768d9359300932ba"
   integrity sha512-sXiCFkOUgibYXCxw2ZQ3i3mVbRdhWMFz+HA2ZZ/VeTeqtGGuV9qKTVRQdOs5tlGToGAMUnLfQ0IO02uFrRKKag==
 
-"@mikazuki/pixela@^0.1.2":
+"@mikazuki/pixela@0.1.2":
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/@mikazuki/pixela/-/pixela-0.1.2.tgz#77ea65018db768d80807970a74821f420eeeb722"
   integrity sha512-7fmlPnMB3NhCfmnNsUfYH84yag8pzIjH/KiWYcfclGvha/kqJUX9hq2NO8Ty36hAX6p/DjfPHG8digQOKZ5VgQ==
@@ -1046,7 +1046,7 @@ data-urls@^1.0.0:
     whatwg-mimetype "^2.2.0"
     whatwg-url "^7.0.0"
 
-dayjs@^1.8.15:
+dayjs@1.8.15:
   version "1.8.15"
   resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.8.15.tgz#7121bc04e6a7f2621ed6db566be4a8aaf8c3913e"
   integrity sha512-HYHCI1nohG52B45vCQg8Re3hNDZbMroWPkhz50yaX7Lu0ATyjGsTdoYZBpjED9ar6chqTx2dmSmM8A51mojnAg==
@@ -4225,7 +4225,7 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
   integrity sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=
 
-twitter@^1.7.1:
+twitter@1.7.1:
   version "1.7.1"
   resolved "https://registry.yarnpkg.com/twitter/-/twitter-1.7.1.tgz#0762378f1dc1c050e48f666aca904e24b1a962f4"
   integrity sha1-B2I3jx3BwFDkj2ZqypBOJLGpYvQ=
