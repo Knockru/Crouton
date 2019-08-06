@@ -12,6 +12,14 @@ export function calcTimeDifference(diff: string = null): number {
   return (matches[1] === "+" ? 1 : -1) * (parseInt(matches[2]) + parseInt(matches[3]) / 60);
 }
 
+export function today(diff: string = null): Date {
+  return dayjs()
+    .utc()
+    .add(calcTimeDifference(diff), "hour")
+    .startOf("date")
+    .toDate();
+}
+
 export function isYesterday(str: string, diff: string = null): boolean {
   const tz = calcTimeDifference(diff);
   const day = dayjs(str)
