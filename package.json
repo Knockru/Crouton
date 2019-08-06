@@ -12,12 +12,12 @@
     "test": "jest"
   },
   "dependencies": {
-    "@azure/identity": "^1.0.0-preview.1",
-    "@azure/keyvault-secrets": "^4.0.0-preview.2",
-    "@mikazuki/lookenv": "^0.1.1",
-    "@mikazuki/pixela": "^0.1.2",
-    "dayjs": "^1.8.15",
-    "twitter": "^1.7.1"
+    "@azure/identity": "1.0.0-preview.1",
+    "@azure/keyvault-secrets": "4.0.0-preview.2",
+    "@mikazuki/lookenv": "0.1.1",
+    "@mikazuki/pixela": "0.1.2",
+    "dayjs": "1.8.15",
+    "twitter": "1.7.1"
   },
   "devDependencies": {
     "@azure/functions": "1.0.3",
