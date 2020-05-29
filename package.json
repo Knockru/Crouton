@@ -20,7 +20,7 @@
     "twitter": "1.7.1"
   },
   "devDependencies": {
-    "@azure/functions": "1.0.3",
+    "@azure/functions": "1.2.2",
     "@types/jest": "24.0.25",
     "@types/twitter": "1.7.0",
     "eslint": "6.3.0",
