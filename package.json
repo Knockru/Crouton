@@ -16,7 +16,7 @@
     "@azure/keyvault-secrets": "4.0.4",
     "@mikazuki/lookenv": "0.1.1",
     "@mikazuki/pixela": "0.1.2",
-    "dayjs": "1.8.29",
+    "dayjs": "1.8.30",
     "twitter": "1.7.1"
   },
   "devDependencies": {
