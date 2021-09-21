@@ -478,10 +478,10 @@
   resolved "https://registry.yarnpkg.com/@mikazuki/lookenv/-/lookenv-0.1.1.tgz#83e156552ea2e4882c916f4b768d9359300932ba"
   integrity sha512-sXiCFkOUgibYXCxw2ZQ3i3mVbRdhWMFz+HA2ZZ/VeTeqtGGuV9qKTVRQdOs5tlGToGAMUnLfQ0IO02uFrRKKag==
 
-"@mikazuki/pixela@0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@mikazuki/pixela/-/pixela-0.1.2.tgz#77ea65018db768d80807970a74821f420eeeb722"
-  integrity sha512-7fmlPnMB3NhCfmnNsUfYH84yag8pzIjH/KiWYcfclGvha/kqJUX9hq2NO8Ty36hAX6p/DjfPHG8digQOKZ5VgQ==
+"@mikazuki/pixela@0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@mikazuki/pixela/-/pixela-0.2.1.tgz#6491c385fb4ca88d90e50c9828f8d49a778ec681"
+  integrity sha512-/EztDKX3S7LhVTZDgram6OAOTYsPdGvYr7SzGskPh4Lt9s2XPFIcwjMgE4SRwNt3U6hSv1+9J16M/CJdOCcq0g==
   dependencies:
     axios "^0.19.0"
 
